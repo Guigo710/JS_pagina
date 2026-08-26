@@ -88,10 +88,15 @@ Alteração da página
 Não é necessário instalar dependências ou configurar um servidor.
 
 Clone o repositório:
+
 - git clone https://github.com/Guigo710/JS_pagina.git
+
 Entre na pasta do projeto:
+
 - cd JS_pagina/JS_página
+
 Abra o arquivo:
+
 - index.html
 
 O projeto pode ser executado diretamente no navegador.
